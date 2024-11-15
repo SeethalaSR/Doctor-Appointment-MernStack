@@ -3,6 +3,12 @@ A MERN Stack Doctor Appointment Booking System
 
 ---
 
+## Demo Video
+
+Watch our [Demo Video](https://drive.google.com/drive/folders/16HFlRyuKeZfp3h4kSSR75J02ElpPZk6E?usp=sharing) to see MediCareBook in action!
+
+---
+
 ## Project Overview  
 MediCareBook is a web-based application designed to streamline the process of booking and managing doctor appointments. 
 It caters to three user roles: **Patients**, **Doctors**, and **Admins**, offering tailored functionalities for each role. 
@@ -114,11 +120,6 @@ The frontend will be available at http://localhost:8000.
 
 ---
 
-## Demo Video
-
-Watch our [Demo Video](https://drive.google.com/drive/folders/16HFlRyuKeZfp3h4kSSR75J02ElpPZk6E?usp=sharing) to see MediCareBook in action!
-
----
 ## Future Enhancements
 
 - Real-time notifications for appointment updates.
