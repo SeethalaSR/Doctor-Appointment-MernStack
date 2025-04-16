@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediCareBook  
 A MERN Stack Doctor Appointment Booking System
 
